@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore5FromClaimsDataBinding", "AspNetCore5FromClaimsDataBinding\AspNetCore5FromClaimsDataBinding.csproj", "{3AAFBF2B-1FDA-4091-99BD-22F92A7BFD26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore5FromClaimsDataBinding.Tests", "AspNetCore5FromClaimsDataBinding.Tests\AspNetCore5FromClaimsDataBinding.Tests.csproj", "{9822BE56-32B8-4AFB-A88A-7DE3C02DF24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AAFBF2B-1FDA-4091-99BD-22F92A7BFD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAFBF2B-1FDA-4091-99BD-22F92A7BFD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAFBF2B-1FDA-4091-99BD-22F92A7BFD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAFBF2B-1FDA-4091-99BD-22F92A7BFD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9822BE56-32B8-4AFB-A88A-7DE3C02DF24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9822BE56-32B8-4AFB-A88A-7DE3C02DF24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9822BE56-32B8-4AFB-A88A-7DE3C02DF24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9822BE56-32B8-4AFB-A88A-7DE3C02DF24F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B399BB2-C146-48D6-AE97-2392419F4437}
+	EndGlobalSection
+EndGlobal

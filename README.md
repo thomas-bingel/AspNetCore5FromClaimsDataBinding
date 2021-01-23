@@ -1,4 +1,4 @@
-# AspNetCore5FromClaimsDataBinding
+# Asp Net Core 5 FromClaims DataBinding like [FromPath]
 ASP.NET Core example on how to implement FromClaims attribute to easily access claims in a controller.
 
 As an example I used the WeatherForecast template and added all necessary classes to the project.  
